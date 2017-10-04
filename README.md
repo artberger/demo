@@ -22,6 +22,7 @@ Create your environment:
 1. Selec the D4IC template.
 2. Give your swarm a name in the **Environment Name** field.
 3. Fill out the **Variables** form. The table describes the required variables:
+   
     | Name | Description | Default Value |
     | ---- | ----------- | ------------- |
     | softlayer_username | To get your IBM Bluemix Infrastructure (Softlayer) user name, log in to SoftLayer, select your profile, and locate your API Username under the API Access Information section. | |
@@ -31,4 +32,5 @@ Create your environment:
     | ssh_key_label | Your IBM Bluemix Infrastructure (SoftLayer) SSH Key for the manager node. To create a key, log in to SoftLayer and select Devices > Manager > SSH Keys > Add. | |
     | datacenter | The location (data center) in the US South region you deploy the swarm to: dal10 or dal12. | |
     | name | The name for your swarm and prefix for the names of each node. | d4ic |
+    
 4. Click **Create**.
