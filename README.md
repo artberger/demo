@@ -19,7 +19,7 @@ Before you begin:
 <!--Any other prereq's?-->
 
 Create your environment:
-1. Selec the D4IC template.
+1. Select the D4IC template.
 2. Give your swarm a name in the **Environment Name** field.
 3. Fill out the **Variables** form. The table describes the required variables:
    
